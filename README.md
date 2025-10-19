@@ -6,4 +6,6 @@
 
 **Автор: Морозов Алексей**
 
-[**Репозиторий**](https://github.com/Lesha-well/posmotri-v-okno-ad)
+
+
+https://github.com/Lesha-well/posmotri-v-okno-ad
